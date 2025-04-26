@@ -1,5 +1,5 @@
 module.exports = {
-  TOKEN: '7666099616:AAH2OnVflF2GeP3qJhMYnkZHnqlRg6z36sM',
+  TOKEN: '8010600412:AAH54PzbTV0TeRwt1SPC40zzgjGlE9LRt0w',
   SELLER_CODE: '13245',
   OWNER_NAME: 'Bang Kopral',
   OWNER_USERNAME: '@Bangkopral',
